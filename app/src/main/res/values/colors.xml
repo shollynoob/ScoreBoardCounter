@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#334431</color>
+    <color name="colorPrimaryDark">#314433</color>
+    <color name="colorAccent">#e05038</color>
+    <color name="colorComplement">#e6af4b</color>
+
+    <color name="r">#e6af4b</color>
+    <color name="e">#e05038</color>
+    <color name="w">#f2cbbc</color>
+    <color name="q">#334431</color>
+
+</resources>

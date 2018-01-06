@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreBoardCounter</string>
+    <string name="reset">RESET</string>
+    <string name="team_a">Team A</string>
+    <string name="zero">0</string>
+    <string name="cards">CARDS</string>
+    <string name="team_a_label">TEAM A</string>
+    <string name="team_b_label">TEAM B</string>
+    <string name="goal">GOAL</string>
+    <string name="yellow_card">YELLOW CARD</string>
+    <string name="red_card">RED CARD</string>
+</resources>
